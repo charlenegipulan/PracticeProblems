@@ -14,5 +14,5 @@ Numbers with two identical digits (third example) should yield true (you can't d
 
 function largestSwap(num) {
 	var reverseNum = num.toString().split("").reverse().join("");
-	return (num > reverseNum || num == reverseNum ? true : false)
+	return (num >= reverseNum);
 }
