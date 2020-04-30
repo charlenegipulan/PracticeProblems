@@ -1,4 +1,4 @@
 # PracticeProblems
 
 
-Repo for practice excercises
+Personal repo for Leet Code practice problems
